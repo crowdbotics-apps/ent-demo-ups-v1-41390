@@ -26,7 +26,10 @@ const styles = StyleSheet.create({
     width: 140,
     backgroundColor: "#E4E4E4",
     borderRadius: 0,
-    color: "#777777"
+    color: "#777777",
+    position: "absolute",
+    left: 97,
+    top: 246
   }
 });
 export default Untitled1;
